@@ -8,7 +8,7 @@ Description : Create a FIFO file by
                 c. use strace command to find out, which command (mknod or mkfifo) is better.
                 c. mknod system call
                 d. mkfifo library function
-Date: 19th September 2025
+Date: 20th September 2025
 ============================================================================
 */
 

@@ -4,7 +4,7 @@ Name : 16.c
 Author : Uttkarsh Ranjan
 Description : Write a program to send and receive data from parent to child vice versa. Use two way
 communication.
-Date: 19th September 2025
+Date: 20th September 2025
 ============================================================================
 */
 

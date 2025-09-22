@@ -4,7 +4,7 @@ Name : 18.c
 Author : Uttkarsh Ranjan
 Description : Write a program to find out total number of directories on the pwd.
 execute ls -l | grep ^d | wc ? Use only dup2.
-Date: 19th September 2025
+Date: 20th September 2025
 ============================================================================
 */
 

@@ -6,7 +6,7 @@ Description : Write a program to execute ls -l | wc.
                 a. use dup
                 b. use dup2
                 c. use fcntl
-Date: 19th September 2025
+Date: 20th September 2025
 ============================================================================
 */
 

@@ -4,7 +4,7 @@ Name : 11.c
 Author : Uttkarsh Ranjan
 Description : Write a program to ignore a SIGINT signal then reset the default action of the SIGINT signal -
 use sigaction system call.
-Date: 19th September 2025
+Date: 20th September 2025
 ============================================================================
 */
 

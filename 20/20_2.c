@@ -3,7 +3,7 @@
 Name : 20_2.c
 Author : Uttkarsh Ranjan
 Description : Write two programs so that both can communicate by FIFO -Use one way communication.
-Date: 19th September 2025
+Date: 20th September 2025
 ============================================================================
 */
 
