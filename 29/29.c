@@ -3,7 +3,7 @@
 Name : 29.c
 Author : Uttkarsh Ranjan
 Description : Write a program to remove the message queue.
-Date: 20th September 2025
+Date: 22nd September 2025
 ============================================================================
 */
 

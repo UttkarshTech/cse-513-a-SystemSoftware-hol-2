@@ -4,7 +4,7 @@ Name : 22.c
 Author : Uttkarsh Ranjan
 Description : Write a program to wait for data to be written into FIFO within 10 seconds, use select
 system call with FIFO.
-Date: 20th September 2025
+Date: 22nd September 2025
 ============================================================================
 */
 

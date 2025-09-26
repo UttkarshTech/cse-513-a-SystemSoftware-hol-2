@@ -5,7 +5,7 @@ Author : Uttkarsh Ranjan
 Description : Write a program to receive messages from the message queue.
                     a. with 0 as a flag
                     b. with IPC_NOWAIT as a flag
-Date: 20th September 2025
+Date: 22nd September 2025
 ============================================================================
 */
 

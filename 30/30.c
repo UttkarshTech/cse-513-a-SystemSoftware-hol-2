@@ -7,7 +7,7 @@ Description : Write a program to create a shared memory.
                     b. attach with O_RDONLY and check whether you are able to overwrite.
                     c. detach the shared memory
                     d. remove the shared memory
-Date: 20th September 2025
+Date: 22nd September 2025
 ============================================================================
 */
 

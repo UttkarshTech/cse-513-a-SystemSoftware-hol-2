@@ -3,7 +3,7 @@
 Name : 24.c
 Author : Uttkarsh Ranjan
 Description : Write a program to create a message queue and print the key and message queue id.
-Date: 20th September 2025
+Date: 22nd September 2025
 ============================================================================
 */
 

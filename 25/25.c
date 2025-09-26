@@ -11,7 +11,7 @@ Description : Write a program to print a message queue's (use msqid_ds and ipc_p
                     f. number of messages in the queue
                     g. maximum number of bytes allowed
                     h. pid of the msgsnd and msgrcv
-Date: 20th September 2025
+Date: 22nd September 2025
 ============================================================================
 */
 

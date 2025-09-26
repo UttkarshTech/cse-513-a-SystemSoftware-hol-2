@@ -7,7 +7,7 @@ Description : Write a program to implement semaphore to protect any critical sec
                     b. protect shared memory from concurrent write access
                     c. protect multiple pseudo resources ( may be two) using counting semaphore
                     d. remove the created semaphore
-Date: 20th September 2025
+Date: 22nd September 2025
 ============================================================================
 */
 

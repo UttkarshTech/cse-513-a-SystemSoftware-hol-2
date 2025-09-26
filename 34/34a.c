@@ -5,7 +5,7 @@ Author : Uttkarsh Ranjan
 Description :34. Write a program to create a concurrent server.
                 a. use fork
                 b. use pthread_create
-Date: 20th September 2025
+Date: 22nd September 2025
 ============================================================================
 */
 
