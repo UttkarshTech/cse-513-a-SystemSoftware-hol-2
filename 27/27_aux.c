@@ -36,9 +36,6 @@ int main() {
 
     pkt.type = 1;
     strcpy(pkt.data, "HELLO IIITB!");
-    // printf("Enter message: ");
-    // fgets(pkt.data, sizeof(pkt.data), stdin);
-    // pkt.data[strcspn(pkt.data, "\n")] = '\0';
 
     send_message(q, &pkt);
     return 0;
